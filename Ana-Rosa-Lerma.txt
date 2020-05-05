@@ -81,7 +81,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     36. What is the command we would use to push our repo up to github? 
         push -u origin "name"
     37. Walk me through Lambda's git flow. 
-        fork, clone, cd to project, git checkout -b 'Ana-Rosa-Lerma', code . , change and save, add ., commit -m, push origin
+        fork, clone, cd to project, git checkout -b 'Ana-Rosa-Lerma', code . , change and save, git add ., git commit -m "mussage", git push -u origin branch-name
 
 Stretch Questions
 
